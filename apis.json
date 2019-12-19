@@ -1,0 +1,69 @@
+{
+    "name": "Deveo",
+    "description": "Discover why enterprise teams powered by Perforce have freedom to innovate at unrivaled scale.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1833-deveo.jpg",
+    "tags": [
+        "api service provider",
+        "have api",
+        "versioning"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/deveo\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Deveo",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1833-deveo.jpg",
+            "humanURL": "https:\/\/deveo.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/deveo-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/deveo.com\/api\/"
+        },
+        {
+            "type": "Blog",
+            "url": "https:\/\/deveo.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedblitz.com\/deveo"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/deveo"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/perforce-software"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developer.deveo.com\/docs\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/deveoteam"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/perforce"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/deveo.com"
+        }
+    ]
+}
